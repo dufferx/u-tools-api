@@ -1,0 +1,14 @@
+[
+    {
+      "id": "1",
+      "name": "Matematica discreta",
+      "uv": "3",
+      "correlative": "3"
+    },
+    {
+      "id": "2",
+      "name": "Precalculo",
+      "uv": "4",
+      "correlative": "1"
+    }   
+  ]
